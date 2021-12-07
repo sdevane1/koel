@@ -1,1 +1,1 @@
-web: php artisan serve
+web: php artisan koel:init --no-assets && php artisan serve
