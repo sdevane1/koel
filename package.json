@@ -4,9 +4,6 @@
   "homepage": "https://koel.dev",
   "license": "MIT",
   "description": "A personal music streaming server that works",
-  "engines": {
-    "node": "14.15"
-  },
   "keywords": [
     "music",
     "audio",
